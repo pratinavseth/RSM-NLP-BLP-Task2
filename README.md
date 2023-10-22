@@ -5,7 +5,8 @@
 Accepted at the 1st Workshop on Bangla Language Processing, EMNLP 2023
 
 </div>
-# RSM-NLP-BLP-Task2
+
+# Sentiment Analysis of Bangla Social Media Posts
 This repository contains our codes for Shared Task 2 at the EMNLP 2023 BLP Workshop - Sentiment Analysis of Bangla Social Media Posts. The goal of the task is to promote work in Bangla Sentiment Analysis and identifying the polarity of social media content by determining whether the sentiment expressed in the text is positive, negative or neutral.
 ## Overview
 Our approach involved experimenting with and finetuning various pre-trained BERT-based models on our downstream task, followed by using ensembling techniques to create a model that outperforms individual baseline model scores. 
